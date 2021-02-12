@@ -1,2 +1,2 @@
 # DeepLearning_KDD2012_data
-This repository contains simple DNN on KDD 2012 data (SOSO search engine advertising)
+This repository contains a simple DNN on the KDD Cup 2012 dataset (SOSO search engine advertising)
